@@ -1,5 +1,4 @@
 const express = require('express');
-const bcrypt = require('bcryptjs');
 const axios = require('axios');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
